@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FileData Library")]
+[assembly: AssemblyTitle("ThirdPartyTools")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FileData")]
+[assembly: AssemblyProduct("ThirdPartyTools")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("70f05d34-f72f-4358-ac35-16251db57031")]
+[assembly: Guid("a1442e1c-110d-4dac-80a3-8adeb5b2c2ab")]
 
 // Version information for an assembly consists of the following four values:
 //
