@@ -6,8 +6,8 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ThirdPartyTools")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDescription("Third Party Tool test Console app For FileData libray")]
+[assembly: AssemblyConfiguration("Console app")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ThirdPartyTools")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
