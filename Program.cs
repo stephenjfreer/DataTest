@@ -5,6 +5,16 @@ namespace FileData
 {
     public static class Program
     {
+        /// <summary>
+        /// 
+        /// expected parameters are:
+        /// First parameter
+        ///     –v, --v, /v, --version 
+        ///  or
+        ///      –s, --s, /s, --size
+        /// second paraeter:
+        ///     The filename of the file
+        /// </summary>
         private static bool _getFileVersion = false;
         private static bool _getFileSize = false;
         private static string _filename = "";
@@ -64,14 +74,7 @@ namespace FileData
 
 
         /// <summary>
-        /// Parse the two arguments to the program, if there are 2
-        /// expected p\r\meters are:
-        /// First parameter
-        ///     –v, --v, /v, --version 
-        ///  or
-        ///      –s, --s, /s, --size
-        /// second paraeter:
-        ///     The filename of the file
+        /// Parse the two arguments to the program (see class definition)
         /// </summary>
         /// <remarks>
         /// Updates the members Filename, 
